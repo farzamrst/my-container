@@ -1,1 +1,1 @@
-Hello. This container is for MikroTik CCR series. It includes Ubuntu Linux with the minimum required items. But after running, be sure to run the update commands.
+Hello. This container is for MikroTik CHR series. It includes Ubuntu Linux Server with the minimum required items. But after running, be sure to run the update commands.
